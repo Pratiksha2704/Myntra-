@@ -14,4 +14,4 @@ Cart Page:
 
 
 Link for the Output:
-http://127.0.0.1:5500/ : this link u have to copy u are browser then it will show the output
+http://127.0.0.1:5500/ 
