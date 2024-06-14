@@ -11,3 +11,7 @@ Cart Page:
 -List of products added to the cart.
 -Options to update quantity or remove items.
 -Summary of total price and checkout button.
+
+
+Link for the Output:
+http://127.0.0.1:5500/ : this link u have to copy u are browser then it will show the output
